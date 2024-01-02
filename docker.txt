@@ -1,6 +1,12 @@
 maintainer : Rajesh
 
+developer
 docker : m5
+
+docker is a containerization.
+
+docker : d1
+ QA
 
 jira : j1
 
