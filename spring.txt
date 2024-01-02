@@ -1,0 +1,27 @@
+spring ...........................!
+
+
+spring is light weight and it is modular passion.
+
+spring : s1
+
+spring boot : sb2
+
+spring is light weight and it is modular passion.
+
+spring : s1
+
+spring boot : sb2
+
+
+spring is light weight and it is modular passion.
+
+spring : s10
+
+spring boot : sb12
+
+
+Microservices : m1 
+API Gateway : a1
+
+
