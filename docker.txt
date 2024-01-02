@@ -5,3 +5,7 @@ docker : d1
 jira : j1
 
 log  : 4j
+
+swagger : sw1
+
+postMan : pm1
